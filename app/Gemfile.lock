@@ -1,5 +1,5 @@
 PATH
-  remote: ../sample_private_lib1
+  remote: gems/sample_private_lib1
   specs:
     sample_private_lib1 (0.1.0)
       activesupport (~> 5.0.0)
