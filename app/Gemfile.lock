@@ -1,0 +1,17 @@
+PATH
+  remote: gems/sample_private_lib1
+  specs:
+    sample_private_lib1 (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sample_private_lib1!
+
+BUNDLED WITH
+   1.17.3
