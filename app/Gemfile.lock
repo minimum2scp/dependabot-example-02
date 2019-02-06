@@ -13,7 +13,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     concurrent-ruby (1.1.4)
-    i18n (1.4.0)
+    i18n (1.5.3)
       concurrent-ruby (~> 1.0)
     minitest (5.11.3)
     thread_safe (0.3.6)
