@@ -1,0 +1,10 @@
+# https://dependabot.com/blog/introducing-config-files/
+version: 1
+update_configs:
+  - package_manager: "ruby:bundler"
+    directory: "sample_private_lib1"
+    update_schedule: "daily"
+
+  - package_manager: "ruby:bundler"
+    directory: "app"
+    update_schedule: "daily"
