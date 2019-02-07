@@ -14,6 +14,3 @@ update_configs:
     allowed_updates:
       - match:
           update_type: "all"
-    ignored_updates:
-      - match:
-          dependency_name: "sample_private_lib1"
