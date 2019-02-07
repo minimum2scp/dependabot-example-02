@@ -6,11 +6,11 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
-          update_type: "all"
+          update_type: "security"
 
   - package_manager: "ruby:bundler"
     directory: "app"
     update_schedule: "daily"
     allowed_updates:
       - match:
-          update_type: "all"
+          update_type: "security"
